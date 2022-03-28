@@ -3,6 +3,7 @@
     vue3 template 标准模板 (1.0.0)
     <div style="height: 300px; width: 300px; background: pink">新增div1</div>
     <div style="height: 300px; width: 300px; background: skyblue">新增div2</div>
+    <div style="height: 300px; width: 300px; background: #ff9900">覆盖发布</div>
   </div>
 </template>
 
